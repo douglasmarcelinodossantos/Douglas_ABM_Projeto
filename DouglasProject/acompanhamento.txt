@@ -1,28 +1,10 @@
-Banco BANCO SANTANDER (BRASIL) SA comprou banco CIELO SA
-Banco Banco de Construção da China comprou banco BANCO DO BRASIL SA
-Banco Citigroup EUA comprou banco ITAÚ UNIBANCO HOLDING SA
-Banco Banco de Agricultura da China comprou banco CAIXA ECONOMICA FEDERAL
-Banco BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL comprou banco BANCO SANTANDER (BRASIL) SA
-Banco Mitsubishi UFJ Japão comprou banco BANCO BTG PACTUAL SA
-Banco BANCO JP MORGAN SA comprou banco BANCO COOPERATIVO DO BRASIL SA - BANCOOB
-Banco BANCO BRADESCO SA comprou banco BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL
-Banco Banco de Agricultura da China comprou banco Mitsubishi UFJ Japão
-Banco BANCO JP MORGAN SA comprou banco BANCO BNP PARIBAS BRASIL SA
-Banco Banco de Agricultura da China comprou banco BANCO CITIBANK SA
-Banco Banco de Construção da China comprou banco BANCO JP MORGAN SA
-Banco BANCO DO ESTADO DO RIO GRANDE DO SUL SA comprou banco BANCO BRADESCO SA
-Banco JPMorgan Chase EUA comprou banco BANCO COOPERATIVO SICREDI SA
-Banco Banco da America EUA comprou banco Banco de Construção da China
-Banco Wells Fargo EUA comprou banco Banco da America EUA
-Banco Citigroup EUA comprou banco Banco de Agricultura da China
-Banco JPMorgan Chase EUA comprou banco BANCO DO ESTADO DO RIO GRANDE DO SUL SA
-Banco ITAÚ UNIBANCO SA comprou banco JPMorgan Chase EUA
+Banco Mitsubishi UFJ Japão comprou banco ITAÚ UNIBANCO HOLDING SA
+Banco BANCO COOPERATIVO DO BRASIL SA - BANCOOB comprou banco BANCO BRADESCO SA
+Banco BANCO DO NORDESTE DO BRASIL SA comprou banco BANCO JP MORGAN SA
+Banco CAIXA ECONOMICA FEDERAL comprou banco BANCO BTG PACTUAL SA
+Banco BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL comprou banco BANCO DO BRASIL SA
 Banco BANCO ITAUCARD SA comprou banco BANCO VOTORANTIM SA
-Banco Bank da China comprou banco BANCO ITAUCARD SA
-Banco Wells Fargo EUA comprou banco ITAÚ UNIBANCO SA
-Banco HSBC Holdings Reino Unido comprou banco BANCO SAFRA SA
-Banco Citigroup EUA comprou banco HSBC Holdings Reino Unido
-Banco Citigroup EUA comprou banco BANCO DO NORDESTE DO BRASIL SA
-Banco REDECARD SA comprou banco Bank da China
-Banco ICBC China comprou banco Citigroup EUA
-Banco Wells Fargo EUA comprou banco REDECARD SA
+Banco BANCO BNP PARIBAS BRASIL SA comprou banco CAIXA ECONOMICA FEDERAL
+Banco CIELO SA comprou banco BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL
+Banco BANCO BNP PARIBAS BRASIL SA comprou banco BANCO DO ESTADO DO RIO GRANDE DO SUL SA
+Banco BANCO BNP PARIBAS BRASIL SA comprou banco ITAÚ UNIBANCO SA
