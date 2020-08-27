@@ -1,4 +1,6 @@
+# coding=utf-8
 import random
+
 
 class Banco:
 
@@ -14,13 +16,14 @@ class Banco:
         self.numero_agencias = int(numero_agencias)
         self.numero_postos = int(numero_postos)
         self.numero_clientes = 0
-        self.taxa_juros = 0
-
-    def set_juros(self):
         self.taxa_juros = random.randint(150, 450) / 10  # Gerando taxa de juros aleatoria entre 15% e 45%
 
     def __str__(self):
-        objeto = self.nome + "\nAtivo Total: " + self.ativo_total.__str__() + "\nCarteira de Credito: " + self.carteira_credito.__str__() + "\nPassivo Circulante: " + self.passivo_circulante.__str__() + "\nCaptações: " + self.captacoes.__str__() + "\nPatrimonio: " + self.patrimonio_liquido.__str__() + "\nLucro Liquido: " + self.lucro_liquido.__str__() + "\nNumero de Agencias: " + self.numero_agencias.__str__() + "\nNumero de Postos: " + self.numero_postos.__str__()
+        objeto = self.nome + "\nAtivo Total: " + self.ativo_total.__str__() + "\nCarteira de Credito: " + \
+                 self.carteira_credito.__str__() + "\nPassivo Circulante: " + self.passivo_circulante.__str__() + \
+                 "\nCaptações: " + self.captacoes.__str__() + "\nPatrimonio: " + self.patrimonio_liquido.__str__() + \
+                 "\nLucro Liquido: " + self.lucro_liquido.__str__() + "\nNumero de Agencias: " + \
+                 self.numero_agencias.__str__() + "\nNumero de Postos: " + self.numero_postos.__str__()
         return str(objeto)
 
     def aquisicao(self, banco_comprado):
